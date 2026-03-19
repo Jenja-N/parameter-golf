@@ -1,5 +1,7 @@
 # Genesis Law: Budget → Architecture
 
+Budget (B) → [Analytical Mapping] → Architecture (L, d, D)
+
 ## Statement
 We define model architecture as a deterministic function of compute budget B.
 
